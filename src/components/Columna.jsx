@@ -4,11 +4,6 @@ const Columna = () => {
   return (
     <div className="Columna">
       <Imagen />
-      <Imagen />
-      <Imagen />
-      <Imagen />
-      <Imagen />
-      <Imagen />
     </div>
   );
 };
